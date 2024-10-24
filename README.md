@@ -61,7 +61,7 @@ La base de données utilisée pour ce projet provient de la source suivante :
    pip install -r requirements.txt
    ```
 
-3. Utilisez les notebooks `Jupyter` dans l'ordre indiqué par leur préfixe.
+3. Utilisez les notebooks `Jupyter` dans l'ordre indiqué par leur préfixe. Il est nécessaire de run 1_data_preprocessing.ipynb pour avoir une création de 4 csv qui sont les inputs et outputs utilisés par la suite.
 
 ### Auteurs
 
