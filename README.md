@@ -61,7 +61,7 @@ La base de données utilisée pour ce projet provient de la source suivante :
    pip install -r requirements.txt
    ```
 
-3. Utilisez les notebooks `Jupyter` dans l'odre indiqué par leur préfixe.
+3. Utilisez les notebooks `Jupyter` dans l'ordre indiqué par leur préfixe.
 
 ### Auteurs
 
